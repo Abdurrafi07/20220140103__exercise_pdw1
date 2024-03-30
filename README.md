@@ -1,0 +1,1 @@
+Website ini adalah sebuah situs sederhana yang didedikasikan untuk MI Al-Manshuriyah, sebuah lembaga pendidikan yang berada di bawah naungan Kementerian Agama. Situs ini menyajikan informasi mengenai sejarah singkat lembaga, profil, prestasi yang diraih oleh siswa, serta proses pendaftaran siswa baru.
